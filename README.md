@@ -1,4 +1,5 @@
-### Olá, Eu sou a Amanda Katariny 👋
+## Olá, Bem Vindo(a)!
+### Eu sou a Amanda Katariny 👋
 
 - 🔭 Full Stack Developer `Laravel` `PHP` `JavaScript` `MySQL` `DevOps`
 - 🌱 Estudando `Vue.JS` `React.JS` `NodeJS` `React Native` `TypeScript`
